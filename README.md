@@ -6,7 +6,7 @@
 
 How to use:
 
-Mở chương trình này trong Visual Studio 2022.
-CTRL + F, search biến string filePath, ở đó sẽ có một cái đường dẫn vô một folder để lưu File công văn, hãy chỉnh sửa để lưu vào máy bạn (thường là bỏ vô Folder Storage cùng Folder chung của chương trình này).
-Sau đó Clean, Build chương trình.
-Sau đó Run chương trình và chương trình sẽ Crawl dữ liệu và lưu vào Folder filePath đó.
+- Mở chương trình này trong Visual Studio 2022.
+- CTRL + F, search biến string filePath, ở đó sẽ có một cái đường dẫn vô một folder để lưu File công văn, hãy chỉnh sửa để lưu vào máy bạn (thường là bỏ vô Folder Storage cùng Folder chung của chương trình này).
+- Sau đó Clean, Build chương trình.
+- Sau đó Run chương trình và chương trình sẽ Crawl dữ liệu và lưu vào Folder filePath đó.
